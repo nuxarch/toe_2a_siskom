@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/fatkhurrohman/0_KULIAH/GANJIL-2024:2025/2A_TOE_SISKOM/Week3",
+      "program": "/Users/fatkhurrohman/0_KULIAH/GANJIL-2024:2025/2A_TOE_SISKOM/Week3/build/Debug/outDebug"
+    }
+  ]
+}
